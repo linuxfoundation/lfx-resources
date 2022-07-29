@@ -1,8 +1,14 @@
 # Welcome to LFX-resources
-Where our community of developers can learn more on all things LFX. Stay up to date with product releases, roadmaps, connectors, and more in this repository.
+Where our community of developers can learn more on all things LFX. 
+Stay up to date with LFX:
+* product releases
+* roadmaps
+* connectors
+* and more
 
 ## Explore LFX
 Visit our documentation: https://docs.linuxfoundation.org/lfx/
+
 Have a question, or any feedback? Check out our community forum: https://community.lfx.dev/
 
 
