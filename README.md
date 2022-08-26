@@ -2,9 +2,8 @@
 Where our community of developers can learn more on all things LFX. 
 Stay up to date with LFX:
 * product releases
-* roadmaps
-* connectors
-* and more
+* roadmaps coming soon...
+* connectors coming soon...
 
 ## Explore LFX
 Visit our documentation: https://docs.linuxfoundation.org/lfx/
@@ -12,16 +11,12 @@ Visit our documentation: https://docs.linuxfoundation.org/lfx/
 Have a question, or any feedback? Check out our community forum: https://community.lfx.dev/
 
 
+## LFX for the Open Source Community
+LFX is for everyone involved in open source but this repository is specifically for our developer community.
 
-## What is LFX
-
-LFX is a suite of tools built by the Linux Foundation to facilitate every aspect of open source development. The toolkit operationalizes the organization’s proven methodology for transforming projects into category leaders, providing direct support to projects and empowering open source developers to write better, more secure code and grow sustainable ecosystems.
-With 11 tools currently available and more on the roadmap for early next year, the LFX Platform is one of the most comprehensive platforms built specifically for the open technology ecosystem.
-
-## Who LFX is for
-**Developers**, to measure and grow their personal impact in open source
-**Project Administrators**, to streamline your project administrative tasks, understand and grow your project health
-**Business Administration** understand your organization's activity in Open Source leveraging Organization Dashboard. 
+* Benchmark, track, and report your contributions to open source projects
+* Understand the health of your projects
+* Showcase your technical contributions to your organization all in one place
 
 ## Tools in LFX
 ### Individual Dashboard
